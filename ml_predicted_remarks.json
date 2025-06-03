@@ -1,0 +1,1402 @@
+[
+    {
+        "Machine No":6,
+        "Lot No":"217200",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217201",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217202",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217203",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217204",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217205",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217206",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217207",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217208",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217209",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217210",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217211",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217212",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217213",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217214",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217215",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217216",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217217",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217218",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217219",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217220",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217221",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217222",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217223",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217224",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217225",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217226",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217227",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217228",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217229",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217230",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217231",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217232",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217233",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217234",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217235",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217236",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217237",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217238",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217239",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217240",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217241",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217242",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217243",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217244",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217245",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217246",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217247",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217248",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217249",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217250",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217251",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217252",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217253",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217254",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217255",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217256",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217257",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217258",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217259",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217260",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217261",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217262",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217263",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217264",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217265",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217266",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217267",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217268",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217269",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217270",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217271",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217272",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217273",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217274",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217275",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217276",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217277",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217278",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217279",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217280",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217281",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217282",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217283",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217284",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217285",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217286",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217287",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217288",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217289",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217290",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217291",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217292",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217293",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217294",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217295",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217296",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217297",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217298",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217299",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217300",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217301",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217302",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217303",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217304",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217305",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217306",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217307",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217308",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217309",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217310",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217311",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217312",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217313",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217314",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217315",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217316",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217317",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217318",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217319",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217320",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217321",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217322",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217323",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217324",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217325",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217326",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217327",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217328",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217329",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217330",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217331",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217332",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217333",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217334",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217335",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217336",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217337",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217338",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217339",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217340",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217341",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217342",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217343",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217344",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217345",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217346",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217347",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217348",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217349",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217350",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217351",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217352",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217353",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217354",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217355",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217356",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217357",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217358",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217359",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217360",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217361",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217362",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217363",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217364",
+        "Remarks":"Unusual speed variations recorded",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217365",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217366",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217367",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217368",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217369",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217370",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217371",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217372",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217373",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217374",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217375",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":8,
+        "Lot No":"217376",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217377",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":4,
+        "Lot No":"217378",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217379",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217380",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":2,
+        "Lot No":"217381",
+        "Remarks":"Batch processed without incident",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217382",
+        "Remarks":"Machine requires maintenance check",
+        "Label":"Maintenance",
+        "Predicted Label":"Maintenance"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217383",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217384",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217385",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217386",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":3,
+        "Lot No":"217387",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217388",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":9,
+        "Lot No":"217389",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217390",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":10,
+        "Lot No":"217391",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217392",
+        "Remarks":"Minor yarn breakage observed",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217393",
+        "Remarks":"Exceeded moisture tolerance",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217394",
+        "Remarks":"Ok to Proceed \/ No Major Issue Observed",
+        "Label":"Normal",
+        "Predicted Label":"Normal"
+    },
+    {
+        "Machine No":5,
+        "Lot No":"217395",
+        "Remarks":"Inspection required for front tension irregularity",
+        "Label":"Critical",
+        "Predicted Label":"Critical"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217396",
+        "Remarks":"Creel ball alignment off slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":7,
+        "Lot No":"217397",
+        "Remarks":"Humidity levels fluctuated slightly",
+        "Label":"Minor Issue",
+        "Predicted Label":"Minor Issue"
+    },
+    {
+        "Machine No":6,
+        "Lot No":"217398",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    },
+    {
+        "Machine No":1,
+        "Lot No":"217399",
+        "Remarks":"All parameters within acceptable range",
+        "Label":"Review",
+        "Predicted Label":"Review"
+    }
+]
