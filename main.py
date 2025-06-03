@@ -90,7 +90,12 @@ def parse_record(record):
         return {}
 
 # --- Load & Process ---
-file_path = r"D:\ball_warping\all_machine_records.json"  # replace with your data file path
+file_path = os.path.join(os.getcwd(), "D:\ball_warping\all_machine_records.json")
+
+if not os.path.exists(file_path):
+    st.error("File not found: D:\ball_warping\all_machine_records.json")
+    st.stop()
+    
 data = load_data(file_path)
 df = pd.DataFrame([parse_record(r) for r in data])
 
