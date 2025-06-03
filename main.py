@@ -90,11 +90,12 @@ def parse_record(record):
         st.error(f"Error parsing record: {e}")
         return {}
 
+import os
 # --- Load & Process ---
-file_path = os.path.join(os.getcwd(), "D:\ball_warping\all_machine_records.json")
+file_path = os.path.join(os.getcwd(), "data", "all_machine_records.json")
 
 if not os.path.exists(file_path):
-    st.error("File not found: D:\ball_warping\all_machine_records.json")
+    st.error("File not found: all_machine_records.json")
     st.stop()
     
 data = load_data(file_path)
